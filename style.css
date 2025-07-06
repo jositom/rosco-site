@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(15, 15, 15);
+}
+
+hr.solid{
+    border-top: 5px solid #ffffff;
+}
+
+.header{
+    text-align: center;
+}
+
+.infobar{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    color: #ffffff;
+}
+
+button{
+    margin-left: 75px;
+    margin-right: 75px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 22px;
+    font-family:'Courier New', Courier, monospace;
+    background: none;
+    color: #ffffff;
+}
+
+.main{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    color: #ffffff;
+}
+
+.subtitle{
+    margin: -15px;
+}
+
+a{
+    color: hotpink;
+}
+
+.infobox{
+    margin-right: 650px;
+}
